@@ -1,2 +1,5 @@
-# -_CTI110
-CTI 110 Repository
+# CTI 110 Repository
+Created for P4LAB2_Output Range
+Bullard
+November 5, 2022
+
